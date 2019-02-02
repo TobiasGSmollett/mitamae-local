@@ -1,0 +1,21 @@
+---
+user: tobias
+packages:
+- tmux
+- zsh
+- git
+- plenv
+- pyenv
+- rbenv
+- git-now
+- jq
+- tig
+- tree
+- crystal-lang
+- crystal-icr
+apps:
+- atom
+- google-chrome
+- docker
+- slack
+- iterm2
