@@ -11,6 +11,7 @@ packages:
 - jq
 - tig
 - tree
+- yarn
 - crystal-lang
 - crystal-icr
 apps:
